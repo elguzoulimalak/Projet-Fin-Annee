@@ -18,7 +18,7 @@ Ce projet est une plateforme web permettant aux utilisateurs de commander des g�
 ### Technologies actuelles
 - **Frontend** : HTML, CSS, JavaScript (React.js)
 - **Backend** : Flask
-- **Base de données** : MongoDB
+- **Base de données** : SQLServer
 - **Outils de conception** : Figma, 
 - **Contrôle de version** : GitHub
 
