@@ -1,0 +1,6 @@
+L’architecture peut être représentée par le schéma suivant :
+[Client (Navigateur/)]      -->      [Serveur Backend]   -->   [Base de Données]
+       |                               				|
+       v                               				v
+  [Moteur 3D (Three.js)]       		 [Gestion des commandes]
+                            			 [Stockage des utilisateurs et gâteaux]
