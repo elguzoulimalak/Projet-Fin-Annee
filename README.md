@@ -1,6 +1,6 @@
-# Projet-Fin-Annee
-Projet Fin Année : "Plateforme e-Commerce  de personnalisation en 3D"<br>
-Ce projet est réalisé par :<br>
+# Plateforme e-Commerce de personnalisation en 3D
+Lien du projet Fin Année : 
+Ce projet en cours de réalisation par  :<br>
 EL GUZOULI Malak<br>
 BENNANI Doha<br>
 MERIOUMI Ayoub <br>
