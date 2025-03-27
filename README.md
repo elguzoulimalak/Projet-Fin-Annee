@@ -1,5 +1,5 @@
 # Plateforme e-Commerce de personnalisation en 3D
-Lien du projet Fin Année : https://github.com/elguzoulimalak/Projet-Fin-Annee <br>
+Lien du projet Fin Année : https://github.com/elguzoulimalak/Cake-Customization-Platform<br>
 Ce projet en cours de réalisation par  :<br>
 EL GUZOULI Malak<br>
 BENNANI Doha<br>
